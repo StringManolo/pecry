@@ -1,5 +1,5 @@
 # pecry
-PE Crypter
+PE Crypter + Packer
 
 ### usage
 ```
